@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -67,11 +57,6 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
 	},
@@ -421,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 81
 }
